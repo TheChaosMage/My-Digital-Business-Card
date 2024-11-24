@@ -1,8 +1,9 @@
 
 .grid-container{
     position: relative;
-    justify-self: center;
+    justify-self: space-between;
     align-self: center;
+
     margin: 20%;
     display: grid;
     grid-gap: 5px;
