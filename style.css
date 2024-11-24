@@ -4,7 +4,7 @@
     justify-self: space-between;
     align-self: center;
 
-    margin: 20%;
+    margin: auto;
     display: grid;
     grid-gap: 5px;
     background: linear-gradient(to bottom,white,black);
