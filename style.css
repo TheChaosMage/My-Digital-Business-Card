@@ -6,7 +6,7 @@
     margin: 20%;
     display: grid;
     grid-gap: 5px;
-    background: linear-gradient(to bottom,tan,sandybrown);
+    background: linear-gradient(to bottom,white,black);
     border-radius: 10px;
     grid-template-areas:
      "my-name logo" 
@@ -34,7 +34,7 @@
 }
 .grid-item{
     
-    color: rgb(47, 43, 35);
+    color: rgb(55, 55, 55);
     text-align: start;
     padding: 10px;
     margin: 2px;
